@@ -133,6 +133,16 @@ img {
 	margin-right: 2rem;
 }
 
+@media (max-width: 61.25em) {
+	.nav {
+		justify-content: center;
+	}
+
+	.nav-list {
+		margin: 0 1rem;
+	}
+}
+
 @media (max-width: 28.75em) {
 	.nav {
 		justify-content: center;
